@@ -1,0 +1,1 @@
+        <button type="button" disabled={!this.state.kk_term} onClick={videoSearch}>Search</button>
